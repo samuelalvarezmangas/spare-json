@@ -1,0 +1,3856 @@
+[
+    {
+        "id": "49750",
+        "slug": "bolsa-basura-bosque-verde-30l-cubo-mediano-paquete",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Paquete",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/49750/bolsa-basura-bosque-verde-30l-cubo-mediano-paquete",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/71e3aef4d796b6aef7b802da13603ac5.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 26,
+                "name": "Limpieza y hogar",
+                "level": 0,
+                "order": 374
+            }
+        ],
+        "display_name": "Bolsa de basura Bosque Verde 30L cubo mediano",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": "bolsas",
+            "unit_size": 1.0,
+            "bulk_price": "0.04",
+            "unit_price": "1.65",
+            "approx_size": false,
+            "size_format": "ud",
+            "total_units": 40,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "0.042",
+            "min_bunch_amount": 1.0,
+            "reference_format": "ud",
+            "previous_unit_price": "        1.70",
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "59151",
+        "slug": "jamon-serrano-incarlopsa-lonchas-extrafinas-paquete",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Paquete",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/59151/jamon-serrano-incarlopsa-lonchas-extrafinas-paquete",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/4ab5b20f19d42a91689814750c89ab97.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 4,
+                "name": "Charcutería y quesos",
+                "level": 0,
+                "order": 159
+            }
+        ],
+        "display_name": "Jamón serrano Incarlopsa lonchas extrafinas",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.12,
+            "bulk_price": "19.58",
+            "unit_price": "2.35",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "19.584",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": "        2.45",
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "66027",
+        "slug": "cerveza-clasica-mahou-pack-12",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": true
+        },
+        "packaging": "Pack-12",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/66027/cerveza-clasica-mahou-pack-12",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/7f4aab592f23db7dc8657bcf0b0018b7.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 19,
+                "name": "Bodega",
+                "level": 0,
+                "order": 15
+            }
+        ],
+        "display_name": "Cerveza clásica Mahou",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": true,
+            "pack_size": 0.33,
+            "unit_name": "latas",
+            "unit_size": 3.96,
+            "bulk_price": "1.76",
+            "unit_price": "6.96",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": 12,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "1.758",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": "        9.00",
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "27291",
+        "slug": "agua-mineral-grande-lanjaron-mineralizacion-debil-pack-6",
+        "limit": 999,
+        "badges": {
+            "is_water": true,
+            "requires_age_check": false
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/27291/agua-mineral-grande-lanjaron-mineralizacion-debil-pack-6",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/db8f44b5ad9a3338c89e35bf66f02c98.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 18,
+                "name": "Agua y refrescos",
+                "level": 0,
+                "order": 8
+            }
+        ],
+        "display_name": "Agua mineral grande Lanjarón",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": true,
+            "pack_size": 1.5,
+            "unit_name": "botellas",
+            "unit_size": 9.0,
+            "bulk_price": "0.37",
+            "unit_price": "3.30",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": 6,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "0.367",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": "        4.20",
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "59018",
+        "slug": "mini-taquitos-jamon-incarlopsa-pack-2",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Pack-2",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/59018/mini-taquitos-jamon-incarlopsa-pack-2",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/b4834b1af541b2550cf34f323bb66e45.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 4,
+                "name": "Charcutería y quesos",
+                "level": 0,
+                "order": 159
+            }
+        ],
+        "display_name": "Mini taquitos de jamón Incarlopsa",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": true,
+            "pack_size": 0.09,
+            "unit_name": "paquetes",
+            "unit_size": 0.18,
+            "bulk_price": "14.17",
+            "unit_price": "2.55",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 2,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "14.167",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": "        2.65",
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "79080",
+        "slug": "dentifrico-pro-expert-oral-b-sabor-menta-fresca-tubo",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Tubo",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/79080/dentifrico-pro-expert-oral-b-sabor-menta-fresca-tubo",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/33f14ca58c7b50560e108fb8a43e5b30.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 20,
+                "name": "Cuidado facial y corporal",
+                "level": 0,
+                "order": 241
+            }
+        ],
+        "display_name": "Dentífrico Pro-Expert Oral-B sabor menta fresca",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.085,
+            "bulk_price": "33.53",
+            "unit_price": "2.85",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "3.353",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 ml",
+            "previous_unit_price": "        3.20",
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "66026",
+        "slug": "cerveza-especial-san-miguel-pack-12",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": true
+        },
+        "packaging": "Pack-12",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/66026/cerveza-especial-san-miguel-pack-12",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/ade8b3c60a0b15d3603e441e0ce3ad21.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 19,
+                "name": "Bodega",
+                "level": 0,
+                "order": 15
+            }
+        ],
+        "display_name": "Cerveza especial San Miguel",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": true,
+            "pack_size": 0.33,
+            "unit_name": "latas",
+            "unit_size": 3.96,
+            "bulk_price": "1.61",
+            "unit_price": "6.36",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": 12,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "1.607",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": "        8.64",
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "27216",
+        "slug": "agua-mineral-grande-lanjaron-botella",
+        "limit": 999,
+        "badges": {
+            "is_water": true,
+            "requires_age_check": false
+        },
+        "packaging": "Botella",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/27216/agua-mineral-grande-lanjaron-botella",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/db845275ca4df13a54a62375e7249ed5.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 18,
+                "name": "Agua y refrescos",
+                "level": 0,
+                "order": 8
+            }
+        ],
+        "display_name": "Agua mineral grande Lanjarón",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": 0.0,
+            "unit_name": null,
+            "unit_size": 1.5,
+            "bulk_price": "0.37",
+            "unit_price": "0.55",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "0.367",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": "        0.73",
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "66447",
+        "slug": "cerveza-amstel-pack-12",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": true
+        },
+        "packaging": "Pack-12",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/66447/cerveza-amstel-pack-12",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/dae06410983a83029903f59e3d162383.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 19,
+                "name": "Bodega",
+                "level": 0,
+                "order": 15
+            }
+        ],
+        "display_name": "Cerveza Amstel",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": true,
+            "pack_size": 0.33,
+            "unit_name": "latas",
+            "unit_size": 3.96,
+            "bulk_price": "1.58",
+            "unit_price": "6.24",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": 12,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "1.576",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": "        8.76",
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "23764",
+        "slug": "espuma-cabello-rizos-descarados-giorgi-fijacion-4-spray",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Spray",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/23764/espuma-cabello-rizos-descarados-giorgi-fijacion-4-spray",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/94a89d266bf85a77dca9224ad7a252ce.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 21,
+                "name": "Cuidado del cabello",
+                "level": 0,
+                "order": 238
+            }
+        ],
+        "display_name": "Espuma cabello Rizos Descarados Giorgi fijación 4",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.25,
+            "bulk_price": "10.20",
+            "unit_price": "2.55",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "1.020",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 ml",
+            "previous_unit_price": "        2.95",
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "22804",
+        "slug": "balsamo-reparador-labios-deliplus-con-aloe-vera-vitamina",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "status": null,
+        "packaging": "Tubo",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/22804/balsamo-reparador-labios-deliplus-con-aloe-vera-vitamina",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/5527cb6cab891dc71b2f0feb9a507fe6.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 22,
+                "name": "Maquillaje",
+                "level": 0,
+                "order": 421
+            }
+        ],
+        "display_name": "Bálsamo reparador labios Deliplus",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.015,
+            "bulk_price": "173.33",
+            "unit_price": "2.60",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "17.334",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 ml",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "35100",
+        "slug": "crema-manos-reparadora-deliplus-bote",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "status": null,
+        "packaging": "Bote",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/35100/crema-manos-reparadora-deliplus-bote",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/f042115d017338f63e2a3f7ff22dc197.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 20,
+                "name": "Cuidado facial y corporal",
+                "level": 0,
+                "order": 241
+            }
+        ],
+        "display_name": "Crema de manos reparadora Deliplus",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.075,
+            "bulk_price": "17.33",
+            "unit_price": "1.30",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "1.734",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 ml",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "65143",
+        "slug": "caramelos-jengibre-propolis-hacendado-0-azucares-paquete",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "status": null,
+        "packaging": "Paquete",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/65143/caramelos-jengibre-propolis-hacendado-0-azucares-paquete",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/c91407532dcda9307b4d91f41930899c.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 9,
+                "name": "Azúcar, caramelos y chocolate",
+                "level": 0,
+                "order": 11
+            }
+        ],
+        "display_name": "Caramelos jengibre y própolis Hacendado 0% azúcares",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.09,
+            "bulk_price": "15.00",
+            "unit_price": "1.35",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "15.000",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "79655",
+        "slug": "sticks-jalea-real-propolis-deliplus-contiene-manuka-hiedra-hinojo-vitamina-c-elaborado-base-miel-aceite-esencial-manuka-extractos-vegetales-caja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "status": null,
+        "packaging": "Caja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/79655/sticks-jalea-real-propolis-deliplus-contiene-manuka-hiedra-hinojo-vitamina-c-elaborado-base-miel-aceite-esencial-manuka-extractos-vegetales-caja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/0408925318c8ac301c1e74a66f4db061.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 23,
+                "name": "Fitoterapia y parafarmacia",
+                "level": 0,
+                "order": 305
+            }
+        ],
+        "display_name": "Sticks Jalea Real y Própolis Deliplus",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": "sticks",
+            "unit_size": 0.12,
+            "bulk_price": "0.41",
+            "unit_price": "4.95",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": 12,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "4.125",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 ml",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "79621",
+        "slug": "comprimidos-vitaminas-minerales-deliplus-caja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "status": null,
+        "packaging": "Caja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/79621/comprimidos-vitaminas-minerales-deliplus-caja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/a76d83ad146c5d3893731b1ea5023c0e.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 23,
+                "name": "Fitoterapia y parafarmacia",
+                "level": 0,
+                "order": 305
+            }
+        ],
+        "display_name": "Comprimidos Vitaminas y Minerales Deliplus",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": "ud.",
+            "unit_size": 0.0279,
+            "bulk_price": "0.10",
+            "unit_price": "3.00",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 30,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "10.153",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 g",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11400",
+        "slug": "infusion-jengibre-hacendado-caja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "status": null,
+        "packaging": "Caja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11400/infusion-jengibre-hacendado-caja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/5c5c1f33be0d4bc7a6c8c0cea9cddeac.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 8,
+                "name": "Cacao, café e infusiones",
+                "level": 0,
+                "order": 16
+            }
+        ],
+        "display_name": "Infusión Jengibre Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": "bolsitas",
+            "unit_size": 0.04,
+            "bulk_price": "33.75",
+            "unit_price": "1.35",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 20,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "3.375",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 g",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11415",
+        "slug": "infusion-respir-hacendado-con-tomillo-eucalipto-romero-menta-caja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "status": null,
+        "packaging": "Caja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11415/infusion-respir-hacendado-con-tomillo-eucalipto-romero-menta-caja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/6b4d223c349149885de5401e1fa784a5.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 8,
+                "name": "Cacao, café e infusiones",
+                "level": 0,
+                "order": 16
+            }
+        ],
+        "display_name": "Infusión Respir Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": "bolsitas",
+            "unit_size": 0.03,
+            "bulk_price": "46.67",
+            "unit_price": "1.40",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 20,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "4.667",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 g",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11453",
+        "slug": "infusion-tomillo-hacendado-caja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "status": null,
+        "packaging": "Caja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11453/infusion-tomillo-hacendado-caja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/f68201af60762bebdab841889fb51fd1.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 8,
+                "name": "Cacao, café e infusiones",
+                "level": 0,
+                "order": 16
+            }
+        ],
+        "display_name": "Infusión Tomillo Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": "bolsitas",
+            "unit_size": 0.024,
+            "bulk_price": "43.75",
+            "unit_price": "1.05",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 20,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "4.375",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 g",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "15451",
+        "slug": "miel-eucalipto-hacendado-bote",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "status": null,
+        "packaging": "Bote",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/15451/miel-eucalipto-hacendado-bote",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/fbd59afa482c5c249e3246a1b27eec34.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 9,
+                "name": "Azúcar, caramelos y chocolate",
+                "level": 0,
+                "order": 11
+            }
+        ],
+        "display_name": "Miel de eucalipto Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.5,
+            "bulk_price": "8.40",
+            "unit_price": "4.20",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "8.400",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "50326",
+        "slug": "crema-facial-hidratante-fortalecedora-deliplus-sensitive-con-vitamina-k-ox-piel-sensible-reactiva-tarro",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "status": null,
+        "packaging": "Tarro",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/50326/crema-facial-hidratante-fortalecedora-deliplus-sensitive-con-vitamina-k-ox-piel-sensible-reactiva-tarro",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/7defd658d86fd24b65bd002040d56ff8.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 20,
+                "name": "Cuidado facial y corporal",
+                "level": 0,
+                "order": 241
+            }
+        ],
+        "display_name": "Crema facial hidratante y fortalecedora Deliplus Sensitive con vitamina K Ox",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.05,
+            "bulk_price": "120.00",
+            "unit_price": "6.00",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "12.000",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 ml",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11599",
+        "slug": "panes-especiales-sabor-fuet-hacendado-paquete",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Paquete",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11599/panes-especiales-sabor-fuet-hacendado-paquete",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/2bd88e8d14a29cb525c2f24d4567d106.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 5,
+                "name": "Panadería y pastelería",
+                "level": 0,
+                "order": 514
+            }
+        ],
+        "display_name": "Panes especiales sabor fuet Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.08,
+            "bulk_price": "11.25",
+            "unit_price": "0.90",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "11.250",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11994",
+        "slug": "lasana-pollo-hacendado-bandeja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Bandeja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11994/lasana-pollo-hacendado-bandeja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/f25e9a313d1a972a6a1d46e147425aaa.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 16,
+                "name": "Pizzas y platos preparados",
+                "level": 0,
+                "order": 596
+            }
+        ],
+        "display_name": "Lasaña de pollo Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.35,
+            "bulk_price": "8.57",
+            "unit_price": "3.00",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "8.572",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11968",
+        "slug": "vino-blanco-chardonnay-mar-uvas-botella",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": true
+        },
+        "packaging": "Botella",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11968/vino-blanco-chardonnay-mar-uvas-botella",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/667a2dfbdb059e356af8e6d6d54e65b5.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 19,
+                "name": "Bodega",
+                "level": 0,
+                "order": 15
+            }
+        ],
+        "display_name": "Vino blanco Chardonnay Mar de Uvas",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.75,
+            "bulk_price": "3.33",
+            "unit_price": "2.50",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "3.334",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "12760",
+        "slug": "disco-desmaquillante-deliplus-reutilizable-paquete",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Paquete",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/12760/disco-desmaquillante-deliplus-reutilizable-paquete",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/2c17d1031e2b5a23b124f225f0e95413.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 20,
+                "name": "Cuidado facial y corporal",
+                "level": 0,
+                "order": 241
+            }
+        ],
+        "display_name": "Disco desmaquillante Deliplus reutilizable",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 1.0,
+            "bulk_price": "2.75",
+            "unit_price": "2.75",
+            "approx_size": false,
+            "size_format": "ud",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "2.750",
+            "min_bunch_amount": 1.0,
+            "reference_format": "ud",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "52984",
+        "slug": "mini-eau-parfum-mujer-flor-mayo-love-frasco",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Frasco",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/52984/mini-eau-parfum-mujer-flor-mayo-love-frasco",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/e6a9a034add2e6a9fba25f203d2e371f.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 20,
+                "name": "Cuidado facial y corporal",
+                "level": 0,
+                "order": 241
+            }
+        ],
+        "display_name": "Mini eau de parfum mujer Flor de Mayo Love",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.025,
+            "bulk_price": "68.00",
+            "unit_price": "1.70",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "6.800",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 ml",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "12082",
+        "slug": "mini-eau-parfum-hombre-flor-mayo-odyssius-amber-frasco",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Frasco",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/12082/mini-eau-parfum-hombre-flor-mayo-odyssius-amber-frasco",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/7146df6bb5539e7fb094ce7d0abdb18d.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 20,
+                "name": "Cuidado facial y corporal",
+                "level": 0,
+                "order": 241
+            }
+        ],
+        "display_name": "Mini eau de parfum hombre Flor De Mayo Odyssius Amber",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.048,
+            "bulk_price": "52.08",
+            "unit_price": "2.50",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "5.209",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 ml",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9940",
+        "slug": "eau-parfum-mujer-cerise-frasco",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Frasco",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9940/eau-parfum-mujer-cerise-frasco",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/c157603f9a45111a892214f5e622ba9e.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 20,
+                "name": "Cuidado facial y corporal",
+                "level": 0,
+                "order": 241
+            }
+        ],
+        "display_name": "Eau de parfum mujer Como tú Cerise",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.1,
+            "bulk_price": "80.00",
+            "unit_price": "8.00",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "8.000",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 ml",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9941",
+        "slug": "eau-parfum-hombre-eternal-frasco",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Frasco",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9941/eau-parfum-hombre-eternal-frasco",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/0bd75f7dbab42dba3af3379ecdf37d9a.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 20,
+                "name": "Cuidado facial y corporal",
+                "level": 0,
+                "order": 241
+            }
+        ],
+        "display_name": "Eau de parfum hombre Como tú Eternal",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.1,
+            "bulk_price": "80.00",
+            "unit_price": "8.00",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "8.000",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 ml",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "12058",
+        "slug": "neceser-nube-mediano-con-asa-205-x-160-x-70-mm",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/12058/neceser-nube-mediano-con-asa-205-x-160-x-70-mm",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/6f8d54e2d5233c60692003ba9b4e800c.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 20,
+                "name": "Cuidado facial y corporal",
+                "level": 0,
+                "order": 241
+            }
+        ],
+        "display_name": "Neceser Nube mediano con asa",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 1.0,
+            "bulk_price": "6.50",
+            "unit_price": "6.50",
+            "approx_size": false,
+            "size_format": "ud",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "6.500",
+            "min_bunch_amount": 1.0,
+            "reference_format": "ud",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "12059",
+        "slug": "neceser-corazones-mediano-con-asa-210-x-140-x-70-mm",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/12059/neceser-corazones-mediano-con-asa-210-x-140-x-70-mm",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/d3051f8d1d310e149b20e67282c655e1.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 20,
+                "name": "Cuidado facial y corporal",
+                "level": 0,
+                "order": 241
+            }
+        ],
+        "display_name": "Neceser corazones mediano con asa",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 1.0,
+            "bulk_price": "6.50",
+            "unit_price": "6.50",
+            "approx_size": false,
+            "size_format": "ud",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "6.500",
+            "min_bunch_amount": 1.0,
+            "reference_format": "ud",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "12061",
+        "slug": "neceser-snoopy-golf-team-pequeno-175-x-135-x-40-mm",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/12061/neceser-snoopy-golf-team-pequeno-175-x-135-x-40-mm",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/68b7292a9a5f50d52144aa88ee45fa17.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 20,
+                "name": "Cuidado facial y corporal",
+                "level": 0,
+                "order": 241
+            }
+        ],
+        "display_name": "Neceser Snoopy Golf Team pequeño",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 1.0,
+            "bulk_price": "4.50",
+            "unit_price": "4.50",
+            "approx_size": false,
+            "size_format": "ud",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "4.500",
+            "min_bunch_amount": 1.0,
+            "reference_format": "ud",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "40328",
+        "slug": "balsamo-labial-color-balm-deliplus-06-morado",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/40328/balsamo-labial-color-balm-deliplus-06-morado",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/af8c4134979d88fe56ef577192d34f22.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 22,
+                "name": "Maquillaje",
+                "level": 0,
+                "order": 421
+            }
+        ],
+        "display_name": "Bálsamo labial Color Balm Deliplus 06 morado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 1.0,
+            "bulk_price": "4.50",
+            "unit_price": "4.50",
+            "approx_size": false,
+            "size_format": "ud",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "4.500",
+            "min_bunch_amount": 1.0,
+            "reference_format": "ud",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11620",
+        "slug": "cerveza-sin-gluten-mahou-00-sin-alcohol-tostada",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": true
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11620/cerveza-sin-gluten-mahou-00-sin-alcohol-tostada",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/a764b36d59655e59bb43e9dee5286708.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 19,
+                "name": "Bodega",
+                "level": 0,
+                "order": 15
+            }
+        ],
+        "display_name": "Cerveza sin gluten Mahou 0,0% sin alcohol tostada",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": true,
+            "pack_size": 0.33,
+            "unit_name": "latas",
+            "unit_size": 2.64,
+            "bulk_price": "2.39",
+            "unit_price": "6.32",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": 8,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "2.394",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9850",
+        "slug": "cereales-copos-maiz-choco-corn-flakes-hacendado-con-chocolate-caja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Caja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9850/cereales-copos-maiz-choco-corn-flakes-hacendado-con-chocolate-caja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/370c1c07a12c544d216212cf81027cf3.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 7,
+                "name": "Cereales y galletas",
+                "level": 0,
+                "order": 18
+            }
+        ],
+        "display_name": "Cereales copos de maíz Choco Corn Flakes Hacendado con chocolate",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.4,
+            "bulk_price": "5.50",
+            "unit_price": "2.20",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "5.500",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "12766",
+        "slug": "caramelos-sabor-lima-hacendado-0-azucares",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/12766/caramelos-sabor-lima-hacendado-0-azucares",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/0efe3c1fed3c498b3dd92b18a260d29b.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 9,
+                "name": "Azúcar, caramelos y chocolate",
+                "level": 0,
+                "order": 11
+            }
+        ],
+        "display_name": "Caramelos sabor lima Hacendado 0% azúcares",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": true,
+            "pack_size": 0.031,
+            "unit_name": "paquetes",
+            "unit_size": 0.093,
+            "bulk_price": "16.13",
+            "unit_price": "1.50",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 3,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "16.130",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "12771",
+        "slug": "caramelos-sabor-eucalipto-mentol-hacendado-0-azucares",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/12771/caramelos-sabor-eucalipto-mentol-hacendado-0-azucares",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/1b553d41bffefff0cdd9139469f9e513.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 9,
+                "name": "Azúcar, caramelos y chocolate",
+                "level": 0,
+                "order": 11
+            }
+        ],
+        "display_name": "Caramelos sabor eucalipto y mentol Hacendado 0% azúcares",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": true,
+            "pack_size": 0.031,
+            "unit_name": "paquetes",
+            "unit_size": 0.093,
+            "bulk_price": "16.13",
+            "unit_price": "1.50",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 3,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "16.130",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11933",
+        "slug": "polvos-voluminizador-cabello-volum-fix-deliplus-mate-fijacion-4-bote",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Bote",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11933/polvos-voluminizador-cabello-volum-fix-deliplus-mate-fijacion-4-bote",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/c847e4510ad30285f1a9e8af6e18f293.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 21,
+                "name": "Cuidado del cabello",
+                "level": 0,
+                "order": 238
+            }
+        ],
+        "display_name": "Polvos voluminizador para el cabello Volum Fix Deliplus mate fijación 4",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.01,
+            "bulk_price": "395.00",
+            "unit_price": "3.95",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "39.500",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 g",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9981",
+        "slug": "bebida-lactea-natural-azucarada-hacendado-botella",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Botella",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9981/bebida-lactea-natural-azucarada-hacendado-botella",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/8761b9c14379e95faf67971a4d59eed4.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 11,
+                "name": "Postres y yogures",
+                "level": 0,
+                "order": 597
+            }
+        ],
+        "display_name": "Bebida láctea natural azucarada Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 4,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 1.0,
+            "bulk_price": "1.37",
+            "unit_price": "1.37",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "4.000",
+            "price_decreased": false,
+            "reference_price": "1.370",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9982",
+        "slug": "bebida-lactea-frutas-bosque-hacendado-botella",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Botella",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9982/bebida-lactea-frutas-bosque-hacendado-botella",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/2958a31bef0535fa62335fb1e1213471.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 11,
+                "name": "Postres y yogures",
+                "level": 0,
+                "order": 597
+            }
+        ],
+        "display_name": "Bebida láctea de frutas del bosque Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 4,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 1.0,
+            "bulk_price": "1.37",
+            "unit_price": "1.37",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "4.000",
+            "price_decreased": false,
+            "reference_price": "1.370",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "35676",
+        "slug": "lote-corporal-mujer-nivea-contiene-body-milk-250-ml-crema-75-ml-crema-soft-75-ml-gel-ducha-250-ml-desodorante-roll-on-50-ml-neceser",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/35676/lote-corporal-mujer-nivea-contiene-body-milk-250-ml-crema-75-ml-crema-soft-75-ml-gel-ducha-250-ml-desodorante-roll-on-50-ml-neceser",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/21892ba3f1ece0bd7415fb7ac66ce3af.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 20,
+                "name": "Cuidado facial y corporal",
+                "level": 0,
+                "order": 241
+            }
+        ],
+        "display_name": "Lote corporal mujer Nivea",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 1.0,
+            "bulk_price": "10.95",
+            "unit_price": "10.95",
+            "approx_size": false,
+            "size_format": "ud",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "10.950",
+            "min_bunch_amount": 1.0,
+            "reference_format": "ud",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11509",
+        "slug": "bebida-isotonica-sabor-citrico-iso-drink-zero-hacendado-botella",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Botella",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11509/bebida-isotonica-sabor-citrico-iso-drink-zero-hacendado-botella",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/71675487e3eb4dc008c42995a03fdb87.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 18,
+                "name": "Agua y refrescos",
+                "level": 0,
+                "order": 8
+            }
+        ],
+        "display_name": "Bebida isotónica sabor cítrico Iso drink zero",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 1.5,
+            "bulk_price": "0.67",
+            "unit_price": "1.00",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "0.667",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11628",
+        "slug": "crema-lentejas-hacendado-bol",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Bol",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11628/crema-lentejas-hacendado-bol",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/302cbc39039ec48bf8ce9e98bdc6e504.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 14,
+                "name": "Conservas, caldos y cremas",
+                "level": 0,
+                "order": 215
+            }
+        ],
+        "display_name": "Crema de lentejas Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.35,
+            "bulk_price": "4.86",
+            "unit_price": "1.70",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "4.858",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "3715",
+        "slug": "freson-bandeja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Bandeja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/3715/freson-bandeja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/541f9e28e57b2897041f060d5fe17728.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 1,
+                "name": "Fruta y verdura",
+                "level": 0,
+                "order": 306
+            }
+        ],
+        "display_name": "Fresón",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 4,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.5,
+            "bulk_price": "8.00",
+            "unit_price": "4.00",
+            "approx_size": true,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "4.000",
+            "price_decreased": false,
+            "reference_price": "8.000",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11938",
+        "slug": "vino-blanco-crianza-do-rioja-capricho-uva-botella",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": true
+        },
+        "packaging": "Botella",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11938/vino-blanco-crianza-do-rioja-capricho-uva-botella",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/aaf8f090f8932f3a3b727e8412afac08.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 19,
+                "name": "Bodega",
+                "level": 0,
+                "order": 15
+            }
+        ],
+        "display_name": "Vino blanco crianza D.O Rioja Capricho de Uva",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.75,
+            "bulk_price": "9.33",
+            "unit_price": "7.00",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "9.334",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "87755",
+        "slug": "nuggets-salmon-rebozados-bandeja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Bandeja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/87755/nuggets-salmon-rebozados-bandeja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/2675cd74d507563a5c382a25ca38ea03.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 2,
+                "name": "Marisco y pescado",
+                "level": 0,
+                "order": 441
+            }
+        ],
+        "display_name": "Nuggets de salmón rebozados",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.25,
+            "bulk_price": "15.80",
+            "unit_price": "3.95",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "15.800",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "63040",
+        "slug": "gambon-empanado-bandeja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Bandeja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/63040/gambon-empanado-bandeja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/e63366f8b3a4a6078f39fea312839012.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 2,
+                "name": "Marisco y pescado",
+                "level": 0,
+                "order": 441
+            }
+        ],
+        "display_name": "Gambón empanado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.2,
+            "bulk_price": "24.75",
+            "unit_price": "4.95",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "24.750",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9965",
+        "slug": "bizcocho-con-azucar-moreno-nueces-bandeja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Bandeja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9965/bizcocho-con-azucar-moreno-nueces-bandeja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/d75f9794efc3b7a4699f46e05381fb7b.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 5,
+                "name": "Panadería y pastelería",
+                "level": 0,
+                "order": 514
+            }
+        ],
+        "display_name": "Bizcocho con azúcar moreno y nueces",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.4,
+            "bulk_price": "8.25",
+            "unit_price": "3.30",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "8.250",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11507",
+        "slug": "lomo-asado-carlotena-lonchas-paquete",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Paquete",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11507/lomo-asado-carlotena-lonchas-paquete",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/b63cbab0a9feaa3dd44023c2e15c182f.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 4,
+                "name": "Charcutería y quesos",
+                "level": 0,
+                "order": 159
+            }
+        ],
+        "display_name": "Lomo asado La Carloteña lonchas",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.125,
+            "bulk_price": "21.60",
+            "unit_price": "2.70",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "21.600",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "12031",
+        "slug": "jamon-teruel-raza-duroc-cierzo-pieza",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Pieza",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/12031/jamon-teruel-raza-duroc-cierzo-pieza",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/b5a2fc5a286b163d872188795c7e0db5.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 4,
+                "name": "Charcutería y quesos",
+                "level": 0,
+                "order": 159
+            }
+        ],
+        "display_name": "Jamón de Teruel raza Duroc El Cierzo",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 7.5,
+            "bulk_price": "11.87",
+            "unit_price": "89.00",
+            "approx_size": true,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "11.867",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9369",
+        "slug": "media-hogaza-integral-avena-semillas-girasol-sesamo-rebanado-paquete",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Paquete",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9369/media-hogaza-integral-avena-semillas-girasol-sesamo-rebanado-paquete",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/1032354d7292140ba34d7d6b738d67a7.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 5,
+                "name": "Panadería y pastelería",
+                "level": 0,
+                "order": 514
+            }
+        ],
+        "display_name": "Media Hogaza integral de avena, semillas de girasol y sésamo rebanado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": "ud.",
+            "unit_size": 0.35,
+            "bulk_price": "2.86",
+            "unit_price": "1.00",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 1,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "2.858",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "86686",
+        "slug": "canapes-tartaletas-congelados-listo-comer-3-4-personas-rellenas-de-queso-con-salmon-eneldo-crema-sobrasada-con-miel-pinones-queso-stilton-crispy-mango-mezcla-quesos-con-higos-crema-roast-beef-ternera-con-queso-foie-manzana-caramelizada-con-huevo-hilado-humus-crema-queso-sabor-trufa-viruta-cecina-brandada-bacalao-con-pate-aceituna-negra-bandeja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Bandeja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/86686/canapes-tartaletas-congelados-listo-comer-3-4-personas-rellenas-de-queso-con-salmon-eneldo-crema-sobrasada-con-miel-pinones-queso-stilton-crispy-mango-mezcla-quesos-con-higos-crema-roast-beef-ternera-con-queso-foie-manzana-caramelizada-con-huevo-hilado-humus-crema-queso-sabor-trufa-viruta-cecina-brandada-bacalao-con-pate-aceituna-negra-bandeja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/45e84682219661bc4dabd33c9c166171.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 16,
+                "name": "Pizzas y platos preparados",
+                "level": 0,
+                "order": 596
+            }
+        ],
+        "display_name": "Canapés de tartaletas congelados Listo para Comer",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": "ud.",
+            "unit_size": 0.275,
+            "bulk_price": "15.00",
+            "unit_price": "15.00",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 18,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "15.000",
+            "min_bunch_amount": 1.0,
+            "reference_format": "ud",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "51198",
+        "slug": "queso-lonchas-fundido-burger-mezcla-hacendado-paquete",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Paquete",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/51198/queso-lonchas-fundido-burger-mezcla-hacendado-paquete",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/7bd7b58ec4f47a62db26456bdf66ba1a.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 4,
+                "name": "Charcutería y quesos",
+                "level": 0,
+                "order": 159
+            }
+        ],
+        "display_name": "Queso lonchas fundido burger mezcla Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 4,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.3,
+            "bulk_price": "6.47",
+            "unit_price": "1.94",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "4.000",
+            "price_decreased": false,
+            "reference_price": "6.467",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11559",
+        "slug": "vino-blanco-chardonnay-barril-no7-botella",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": true
+        },
+        "packaging": "Botella",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11559/vino-blanco-chardonnay-barril-no7-botella",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/9c263431185b28a5b112f96c47ab9564.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 19,
+                "name": "Bodega",
+                "level": 0,
+                "order": 15
+            }
+        ],
+        "display_name": "Vino blanco Chardonnay Barril Nº7",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.75,
+            "bulk_price": "13.00",
+            "unit_price": "9.75",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "13.000",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "52895",
+        "slug": "vino-tinto-do-valencia-finca-canadelas-reserva-botella",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": true
+        },
+        "packaging": "Botella",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/52895/vino-tinto-do-valencia-finca-canadelas-reserva-botella",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/722529d433f80b3d0947ec4343cf54dc.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 19,
+                "name": "Bodega",
+                "level": 0,
+                "order": 15
+            }
+        ],
+        "display_name": "Vino Tinto D.O Valencia Finca Cañadelas reserva",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.75,
+            "bulk_price": "9.33",
+            "unit_price": "7.00",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "9.334",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "85191",
+        "slug": "canailla-cocida-bandeja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Bandeja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/85191/canailla-cocida-bandeja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/715c7740d66fe2dc93bf2e4da3488ae0.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 2,
+                "name": "Marisco y pescado",
+                "level": 0,
+                "order": 441
+            }
+        ],
+        "display_name": "Cañaílla cocida",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.5,
+            "bulk_price": "11.40",
+            "unit_price": "5.70",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "11.400",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": "9788",
+        "slug": "crema-queso-tex-mex-hacendado-tarrina",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Tarrina",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9788/crema-queso-tex-mex-hacendado-tarrina",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/b43b6a577fe0d3be3bd7272de06b7362.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 4,
+                "name": "Charcutería y quesos",
+                "level": 0,
+                "order": 159
+            }
+        ],
+        "display_name": "Crema de queso Tex-Mex Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 4,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.15,
+            "bulk_price": "10.53",
+            "unit_price": "1.58",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "4.000",
+            "price_decreased": false,
+            "reference_price": "10.534",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11521",
+        "slug": "postre-lacteo-carrot-cake-hacendado-con-zanahoria",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11521/postre-lacteo-carrot-cake-hacendado-con-zanahoria",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/5c4b329516c26e30eaa2db6c1313c209.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 11,
+                "name": "Postres y yogures",
+                "level": 0,
+                "order": 597
+            }
+        ],
+        "display_name": "Postre lácteo Carrot Cake Hacendado con zanahoria",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": true,
+            "pack_size": 0.09,
+            "unit_name": "ud.",
+            "unit_size": 1.8,
+            "bulk_price": "9.44",
+            "unit_price": "1.70",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 2,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "9.445",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11489",
+        "slug": "ambientador-electrico-matcha-bosque-verde-recambio-caja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Caja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11489/ambientador-electrico-matcha-bosque-verde-recambio-caja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/3c6a5207e56bd803ee8caa8ffc7717b1.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 26,
+                "name": "Limpieza y hogar",
+                "level": 0,
+                "order": 374
+            }
+        ],
+        "display_name": "Recambio ambientador eléctrico Matcha Bosque Verde",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.025,
+            "bulk_price": "64.00",
+            "unit_price": "1.60",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "6.400",
+            "min_bunch_amount": 1.0,
+            "reference_format": "100 ml",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11688",
+        "slug": "refresco-te-sabor-limon-fuze-tea-bajo-calorias-botella",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Botella",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11688/refresco-te-sabor-limon-fuze-tea-bajo-calorias-botella",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/47b24130e2a5593bc2c41c9787a81970.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 18,
+                "name": "Agua y refrescos",
+                "level": 0,
+                "order": 8
+            }
+        ],
+        "display_name": "Refresco té sabor limón Fuze Tea",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 1.5,
+            "bulk_price": "1.33",
+            "unit_price": "1.99",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "1.327",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11690",
+        "slug": "refresco-te-sabor-limon-fuze-tea",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11690/refresco-te-sabor-limon-fuze-tea",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/b82ed6bc2e7e8980d71f9ffb80e5e93a.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 18,
+                "name": "Agua y refrescos",
+                "level": 0,
+                "order": 8
+            }
+        ],
+        "display_name": "Refresco té sabor limón Fuze Tea",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": true,
+            "pack_size": 0.33,
+            "unit_name": "latas",
+            "unit_size": 2.64,
+            "bulk_price": "2.58",
+            "unit_price": "6.80",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": 8,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "2.576",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": "        7.12",
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "19816",
+        "slug": "aroma-agua-azahar-hacendado-bote",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Bote",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/19816/aroma-agua-azahar-hacendado-bote",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/50a36d297fd5623c16c1b5f67e942bd4.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 5,
+                "name": "Panadería y pastelería",
+                "level": 0,
+                "order": 514
+            }
+        ],
+        "display_name": "Aroma agua de azahar Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.15,
+            "bulk_price": "13.33",
+            "unit_price": "2.00",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "13.334",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "61206",
+        "slug": "cardo-hacendado-ultracongelado-paquete",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Paquete",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/61206/cardo-hacendado-ultracongelado-paquete",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/fc037efe69816c5e3cb1cdde60f2b008.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 17,
+                "name": "Congelados",
+                "level": 0,
+                "order": 213
+            }
+        ],
+        "display_name": "Cardo Hacendado ultracongelado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 4,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.45,
+            "bulk_price": "3.67",
+            "unit_price": "1.65",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "4.000",
+            "price_decreased": false,
+            "reference_price": "3.667",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "2120",
+        "slug": "medio-cochinillo-congelado-pieza",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Pieza",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/2120/medio-cochinillo-congelado-pieza",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/6c7a222c0a4e11f0d2ff0a58708ad530.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 3,
+                "name": "Carne",
+                "level": 0,
+                "order": 17
+            }
+        ],
+        "display_name": "Medio cochinillo congelado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 3.4,
+            "bulk_price": "10.90",
+            "unit_price": "37.06",
+            "approx_size": true,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "10.900",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "4072",
+        "slug": "paletilla-lechal-entera-congelada-pieza",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Pieza",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/4072/paletilla-lechal-entera-congelada-pieza",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/a332bc5ec0c06e85199d93f1a69d1e1f.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 3,
+                "name": "Carne",
+                "level": 0,
+                "order": 17
+            }
+        ],
+        "display_name": "Paletilla de lechal entera congelada",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.65,
+            "bulk_price": "25.90",
+            "unit_price": "16.84",
+            "approx_size": true,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "25.900",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9963",
+        "slug": "cordero-chuleteado-bandeja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Bandeja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9963/cordero-chuleteado-bandeja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/9db8a3a454a39364470cc137bb91bf4a.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 3,
+                "name": "Carne",
+                "level": 0,
+                "order": 17
+            }
+        ],
+        "display_name": "Cordero chuleteado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.775,
+            "bulk_price": "21.00",
+            "unit_price": "16.28",
+            "approx_size": true,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "21.000",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "52855",
+        "slug": "postre-lacteo-sabor-coco-proteinas-hacendado-0-mg-10-g-proteinas",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/52855/postre-lacteo-sabor-coco-proteinas-hacendado-0-mg-10-g-proteinas",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/5e18072a424c6218f2bdd6d5ee075e44.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 11,
+                "name": "Postres y yogures",
+                "level": 0,
+                "order": 597
+            }
+        ],
+        "display_name": "Postre lácteo sabor coco +Proteínas Hacendado 0% m.g 10 g proteínas",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 4,
+            "is_new": false,
+            "is_pack": true,
+            "pack_size": 0.12,
+            "unit_name": "ud.",
+            "unit_size": 0.48,
+            "bulk_price": "3.06",
+            "unit_price": "1.47",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 4,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "4.000",
+            "price_decreased": false,
+            "reference_price": "3.063",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "63373",
+        "slug": "torpedos-langostino-hacendado-ultracongelados-paquete",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Paquete",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/63373/torpedos-langostino-hacendado-ultracongelados-paquete",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/c54c418e7db59ccbbcb36fe594bc8060.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 17,
+                "name": "Congelados",
+                "level": 0,
+                "order": 213
+            }
+        ],
+        "display_name": "Torpedos de langostino Hacendado ultracongelados",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.18,
+            "bulk_price": "21.94",
+            "unit_price": "3.95",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "21.945",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11518",
+        "slug": "mousse-pato-con-dulce-calabaza-hacendado-paquete",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Paquete",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11518/mousse-pato-con-dulce-calabaza-hacendado-paquete",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/d9606a518016dba85b47dc5870f40d6a.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 4,
+                "name": "Charcutería y quesos",
+                "level": 0,
+                "order": 159
+            }
+        ],
+        "display_name": "Mousse de pato con dulce de calabaza Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.1,
+            "bulk_price": "15.00",
+            "unit_price": "1.50",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "15.000",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9641",
+        "slug": "tarta-queso-hacendado-congelada",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9641/tarta-queso-hacendado-congelada",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/01a94f32546f5c650d776b6cf8f4b5f8.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 17,
+                "name": "Congelados",
+                "level": 0,
+                "order": 213
+            }
+        ],
+        "display_name": "Tarta de queso Hacendado congelada",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": "raciones",
+            "unit_size": 0.88,
+            "bulk_price": "11.36",
+            "unit_price": "10.00",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 10,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "11.364",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "11499",
+        "slug": "pate-cerdo-iberico-con-trufa-negra-hacendado-lata",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Lata",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/11499/pate-cerdo-iberico-con-trufa-negra-hacendado-lata",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/53e6bb4950ee0ff4cffec05b52f74380.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 4,
+                "name": "Charcutería y quesos",
+                "level": 0,
+                "order": 159
+            }
+        ],
+        "display_name": "Paté de cerdo ibérico con trufa negra Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.13,
+            "bulk_price": "16.15",
+            "unit_price": "2.10",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "16.154",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9790",
+        "slug": "pudding-sabor-cafe-proteinas-hacendado-12-g-proteinas",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": null,
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9790/pudding-sabor-cafe-proteinas-hacendado-12-g-proteinas",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/2e7f9fdf6dc5889f6eaeba2c665bdfa1.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 11,
+                "name": "Postres y yogures",
+                "level": 0,
+                "order": 597
+            }
+        ],
+        "display_name": "Pudding sabor café +Proteínas Hacendado 12 g proteínas",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": true,
+            "pack_size": 0.12,
+            "unit_name": "ud.",
+            "unit_size": 0.48,
+            "bulk_price": "3.96",
+            "unit_price": "1.90",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 4,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "3.959",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "8889",
+        "slug": "whisky-escoces-grand-old-parr-12-anos-botella",
+        "limit": 10,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": true
+        },
+        "packaging": "Botella",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/8889/whisky-escoces-grand-old-parr-12-anos-botella",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/e9d7715f052d403f7923883099e2a465.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 19,
+                "name": "Bodega",
+                "level": 0,
+                "order": 15
+            }
+        ],
+        "display_name": "Whisky escocés Grand Old Parr 12 años",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 21,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 1.0,
+            "bulk_price": "21.00",
+            "unit_price": "21.00",
+            "approx_size": false,
+            "size_format": "l",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "21.000",
+            "price_decreased": false,
+            "reference_price": "21.000",
+            "min_bunch_amount": 1.0,
+            "reference_format": "L",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9989",
+        "slug": "pate-atun-con-aceitunas-hacendado-tarro",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Tarro",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9989/pate-atun-con-aceitunas-hacendado-tarro",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/2a94dca3bb1fe8b1f65e354e0b5fd2ca.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 4,
+                "name": "Charcutería y quesos",
+                "level": 0,
+                "order": 159
+            }
+        ],
+        "display_name": "Paté de atún con aceitunas Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.16,
+            "bulk_price": "8.75",
+            "unit_price": "1.40",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "8.750",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "87164",
+        "slug": "tira-rodaballo-bandeja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Bandeja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/87164/tira-rodaballo-bandeja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/add741a39352f069a3bc8a4eea7db931.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 2,
+                "name": "Marisco y pescado",
+                "level": 0,
+                "order": 441
+            }
+        ],
+        "display_name": "Tira de rodaballo",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.45,
+            "bulk_price": "19.50",
+            "unit_price": "8.78",
+            "approx_size": true,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "19.500",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "87163",
+        "slug": "filete-rodaballo-bandeja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Bandeja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/87163/filete-rodaballo-bandeja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/12eacd7cd23e1b43dcef62e9a1d0ba01.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 2,
+                "name": "Marisco y pescado",
+                "level": 0,
+                "order": 441
+            }
+        ],
+        "display_name": "Filete de rodaballo",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.25,
+            "bulk_price": "28.65",
+            "unit_price": "7.16",
+            "approx_size": true,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "28.650",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "58230",
+        "slug": "surtido-ibericos-hacienda-iberico-contiene-jamon-cebo-chorizo-cana-lomo-cebo-salchichon-paquete",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Paquete",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/58230/surtido-ibericos-hacienda-iberico-contiene-jamon-cebo-chorizo-cana-lomo-cebo-salchichon-paquete",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/e2a85eb77431e734496498c30e0599b6.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 4,
+                "name": "Charcutería y quesos",
+                "level": 0,
+                "order": 159
+            }
+        ],
+        "display_name": "Surtido de ibéricos La Hacienda del ibérico",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.2,
+            "bulk_price": "32.50",
+            "unit_price": "6.50",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "32.500",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9820",
+        "slug": "chocolate-negro-72-cacao-hacendado-con-almendras-enteras-0-azucares-anadidos-tableta",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Tableta",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9820/chocolate-negro-72-cacao-hacendado-con-almendras-enteras-0-azucares-anadidos-tableta",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/555d2327c7901b4da0bbd3e8709df012.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 9,
+                "name": "Azúcar, caramelos y chocolate",
+                "level": 0,
+                "order": 11
+            }
+        ],
+        "display_name": "Chocolate negro 72% de cacao Hacendado con almendras enteras",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.15,
+            "bulk_price": "19.00",
+            "unit_price": "2.85",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "19.000",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "86496",
+        "slug": "bombones-chocolate-con-leche-lindor-lindt-caja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Caja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/86496/bombones-chocolate-con-leche-lindor-lindt-caja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/51a498f0950bd79794882a52edcb8e79.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 9,
+                "name": "Azúcar, caramelos y chocolate",
+                "level": 0,
+                "order": 11
+            }
+        ],
+        "display_name": "Bombones de chocolate con leche Lindor Lindt",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.2,
+            "bulk_price": "32.50",
+            "unit_price": "6.50",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "32.500",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9871",
+        "slug": "barritas-cereales-hacendado-con-leche-cacahuetes-palomitas-caja",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Caja",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9871/barritas-cereales-hacendado-con-leche-cacahuetes-palomitas-caja",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/264b7f3893149db0520fc484fc2f9111.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 7,
+                "name": "Cereales y galletas",
+                "level": 0,
+                "order": 18
+            }
+        ],
+        "display_name": "Barritas de cereales Pop Corn con leche, cacahuetes y palomitas Hacendado",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": "barritas",
+            "unit_size": 0.126,
+            "bulk_price": "12.30",
+            "unit_price": "1.55",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": 6,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "12.302",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    },
+    {
+        "id": "9966",
+        "slug": "mix-frutos-secos-hacendado-banados-chocolate-negro-paquete",
+        "limit": 999,
+        "badges": {
+            "is_water": false,
+            "requires_age_check": false
+        },
+        "packaging": "Paquete",
+        "published": true,
+        "share_url": "https://tienda.mercadona.es/product/9966/mix-frutos-secos-hacendado-banados-chocolate-negro-paquete",
+        "thumbnail": "https://prod-mercadona.imgix.net/images/fefd43dd6d0f27620e14d05079310aab.jpg?fit=crop&h=300&w=300",
+        "categories": [
+            {
+                "id": 9,
+                "name": "Azúcar, caramelos y chocolate",
+                "level": 0,
+                "order": 11
+            }
+        ],
+        "display_name": "Mix de frutos secos Hacendado bañados en chocolate negro",
+        "unavailable_from": null,
+        "price_instructions": {
+            "iva": 10,
+            "is_new": false,
+            "is_pack": false,
+            "pack_size": null,
+            "unit_name": null,
+            "unit_size": 0.15,
+            "bulk_price": "14.67",
+            "unit_price": "2.20",
+            "approx_size": false,
+            "size_format": "kg",
+            "total_units": null,
+            "unit_selector": true,
+            "bunch_selector": false,
+            "drained_weight": null,
+            "selling_method": 0,
+            "tax_percentage": "10.000",
+            "price_decreased": false,
+            "reference_price": "14.667",
+            "min_bunch_amount": 1.0,
+            "reference_format": "kg",
+            "previous_unit_price": null,
+            "increment_bunch_amount": 1.0
+        },
+        "unavailable_weekdays": []
+    }
+]
